@@ -23,12 +23,14 @@ h3{
     color: #F8F8F8;
     border-radius: 10px;
     padding: 10px;
+    
 }
 
 body{
     background-color:	#36393e;
     color: #F8F8F8;
     font-family: 'Roboto', sans-serif;
+    align-items: center;
 }
 
 hr {
@@ -40,7 +42,24 @@ hr {
 footer {
     background-color: 	#1e2124;
     color: 	#F8F8F8;
-    border-radius: 20px;
     padding: 20px;
     text-align: center;
 }
+
+a:link{
+    color: #5E5E5E;
+}
+
+a:visited{
+    color:#ABABAB ;
+}
+
+figcaption {
+    font-size: 12px;
+    color: #C6C6C6 ;
+    font-style: italic;
+}
+
+
+
+
